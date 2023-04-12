@@ -6,8 +6,7 @@
 ---
 ### 💬 About Me:
 
-To-Do
-
+Hey, my name is Darian Payan and I am currently. a student at the University of Colorado Boulder pursuing a BS in Computer Science. I will be graduating May of 2023, where I will be applying my skillset and knowledge from my time in university to help solve problems and create innovative solutions. I am always looking to grow professionally so I have been recently learning RubyOnRails and getting more experience with web developemnt. 
 ---
 
 ### 🧰 Languages and Tools
@@ -45,8 +44,8 @@ For event hosts, also developed a template builder using Ruby on Rails to effici
 ### SARA Project 
 
 
-### <a href="https://github.com/KevinFLoaiza/ChutesAndLadders">Snake and Ladders </a>
-I made a snakes and ladders game that was made in intelliJ where we used Java. The purpose of the game is to reach tile 100 in a 10x10 grid where there are various obstacles that could increase the number of tiles you go up, which are stairs or go back if you land on the head of a snake to the tail. Each players takes turn rolling a die until they reach the final tile. 
+### <a href="https://github.com/KevinFLoaiza/ChutesAndLadders">Bee Managment </a>
+This project is a resource management game themed around Bees. The obejective of the game is help the  bee colony grow and survive from a set amount of days by increasing production of resources, maintaining enough bees in the colony to operate, and having troops to protect the hive from enemies. Based all in Java, this project was made in order to apply a lot of the principles I learned about Object Oriented Programming. 
 
 ### <a href="https://github.com/CSCI-3308-CU-Boulder/3308SP21_section013_5">Book Review </a>
 This is an application that has a library of books that you can look up and it gives the user information on the book like the summary, the author, and the genre. Users can then upload a review if they have read the book and give it a rating that will be seen by other users. Tools that we used are docker, CSS, javascript, and HTML
