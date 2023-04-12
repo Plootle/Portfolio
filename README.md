@@ -5,8 +5,8 @@
 
 ---
 ### 💬 About Me:
----
 Hey, my name is Darian Payan and I am currently. a student at the University of Colorado Boulder pursuing a BS in Computer Science. I will be graduating May of 2023, where I will be applying my skillset and knowledge from my time in university to help solve problems and create innovative solutions. I am always looking to grow professionally so I have been recently learning RubyOnRails and getting more experience with web developemnt. 
+---
 
 ### 🧰 Languages and Tools
 
