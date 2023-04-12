@@ -5,9 +5,8 @@
 
 ---
 ### 💬 About Me:
-
-Hey, my name is Darian Payan and I am currently. a student at the University of Colorado Boulder pursuing a BS in Computer Science. I will be graduating May of 2023, where I will be applying my skillset and knowledge from my time in university to help solve problems and create innovative solutions. I am always looking to grow professionally so I have been recently learning RubyOnRails and getting more experience with web developemnt. 
 ---
+Hey, my name is Darian Payan and I am currently. a student at the University of Colorado Boulder pursuing a BS in Computer Science. I will be graduating May of 2023, where I will be applying my skillset and knowledge from my time in university to help solve problems and create innovative solutions. I am always looking to grow professionally so I have been recently learning RubyOnRails and getting more experience with web developemnt. 
 
 ### 🧰 Languages and Tools
 
@@ -44,7 +43,7 @@ For event hosts, also developed a template builder using Ruby on Rails to effici
 ### SARA Project 
 
 
-### <a href="https://github.com/KevinFLoaiza/ChutesAndLadders">Bee Managment </a>
+### <a href="https://github.com/Plootle/BeeGame">Bee Managment </a>
 This project is a resource management game themed around Bees. The obejective of the game is help the  bee colony grow and survive from a set amount of days by increasing production of resources, maintaining enough bees in the colony to operate, and having troops to protect the hive from enemies. Based all in Java, this project was made in order to apply a lot of the principles I learned about Object Oriented Programming. 
 
 ### <a href="https://github.com/CSCI-3308-CU-Boulder/3308SP21_section013_5">Book Review </a>
