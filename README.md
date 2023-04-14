@@ -29,7 +29,7 @@ Hey, my name is Darian Payan and I am currently. a student at the University of 
 
 ---
 
-### 📘 <a href="https://drive.google.com/file/d/19IvXgbPG4eHPRR-NqvKEj7Y2L8PGdAs5/view?usp=sharing">Resume</a>
+### 📘 <a href="https://drive.google.com/file/d/1bIPYFdVzr2EmJ-bPmBkrmzo1ECh-VO-R/view?usp=sharing">Resume</a>
 
 ---
 
