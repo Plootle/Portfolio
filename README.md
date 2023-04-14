@@ -54,6 +54,7 @@ Since I was a kid I have always loved cars and trucks. The amount of work and pa
 <br clear="left"/>
 
 As I have continued to pursue my professional and academic interests, I have managed to keep my interests in video games. I have always gravitated towards games that require you to continue improving in order to continue stay competitive or challenge you in ways that most would become discouraged. My top two games currently are Valorant and Elden Ring. Valorant is my favorite multiplayer games as it requires precise aiming, understanding of agent abilities, and compability of team in order to gain a competitive edge againts the opposing team. I have also been personally invested into the games professional competitive scene and have enjoyed staying up to date with the teams (GO Sentinels!). Elden Ring on the other hand requires you to adapt and learn every enemies moves, as getting hit is often instant death or a severe punishment.
+<br>
 <img align="left" alt="Valorant" width="280px" style="padding-right:10px;" src="https://imgrosetta.mynet.com.tr/file/15040280/15040280-728xauto.jpg" />
 <img align="left" alt="eldenRing" width="280px" style="padding-right:10px;" src="https://www.cinelinx.com/wp-content/uploads/2022/02/elden-ring-key-art-1271785.jpg" />
 <br clear="left"/>
