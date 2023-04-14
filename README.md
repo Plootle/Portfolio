@@ -61,7 +61,7 @@ As I have continued to pursue my professional and academic interests, I have man
 
 Another personal interest is animals. As a kid I spent a lot of time around chickens, cows, and horses so I have always had a love for them. While I currently dont have any animals anymore, I plan on one day raising chickens in my backyard.
 <img align="left" alt="chickens" width="280px" style="padding-right:10px;" src="https://www.freedomrangerhatchery.com/wp-content/uploads/2019/03/flock.jpg" />
-
+<br>
 ---
 
 ### 🧶 Social Media
