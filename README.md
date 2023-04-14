@@ -52,9 +52,10 @@ Since I was a kid I have always loved cars and trucks. The amount of work and pa
 <img align="left" alt="sCarry" width="360px" style="padding-right:10px;" src="https://www.recoilweb.com/wp-content/uploads/2010/09/1990-suzuki-carry-front-three-quarter-958x639.jpg" />
 <img align="left" alt="sCarry2" width="360px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Honda_Acty_Truck_HA9_0326.JPG/2880px-Honda_Acty_Truck_HA9_0326.JPG" />
 <br clear="left"/>
-In order to get out of the house and be able to enjoy nature I dearly enjoy the outdoors that Colorado provides. Since my move to this state I have done many activities with my family. All the way from mountain biking, hiking, swimming, camping, fishing, and boat rowing.
 
-<img align="left" alt="PC" width="280px" style="padding-right:10px;" src="https://cdna.pcpartpicker.com/static/forever/images/userbuild/284120.ef259283c2e58f2918219edfe9b6d299.jpg" />
+As I have continued to pursue my professional and academic interests, I have managed to keep my interests in video games. I have always gravitated towards games that require you to continue improving in order to continue stay competitive or challenge you in ways that most would become discouraged. My top two games currently are Valorant and Elden Ring. Valorant is my favorite multiplayer games as it requires precise aiming, understanding of agent abilities, and compability of team in order to gain a competitive edge againts the opposing team. I have also been personally invested into the games professional competitive scene and have enjoyed staying up to date with the teams (GO Sentinels!). Elden Ring on the other hand requires you to adapt and learn every enemies moves, as getting hit is often instant death or a severe punishment.
+<img align="left" alt="Valorant" width="280px" style="padding-right:10px;" src="https://imgrosetta.mynet.com.tr/file/15040280/15040280-728xauto.jpg" />
+<img align="left" alt="eldenRing" width="280px" style="padding-right:10px;" src="https://www.cinelinx.com/wp-content/uploads/2022/02/elden-ring-key-art-1271785.jpg" />
 <br clear="left"/>
 As I became more interested in technology I couldn’t let go of playing video games. Along the way to picking my career I became more interested in computers and have found it interesting and fun to build my own rigs. I have built two pc’s so far, one that was a budget build and another one that I saved up my money for in order to get better performance than what I was using before. 
 
