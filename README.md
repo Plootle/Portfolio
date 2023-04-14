@@ -58,17 +58,18 @@ As I have continued to pursue my professional and academic interests, I have man
 <img align="left" alt="Valorant" width="280px" style="padding-right:10px;" src="https://imgrosetta.mynet.com.tr/file/15040280/15040280-728xauto.jpg" />
 <img align="left" alt="eldenRing" width="280px" style="padding-right:10px;" src="https://www.cinelinx.com/wp-content/uploads/2022/02/elden-ring-key-art-1271785.jpg" />
 <br clear="left"/>
-As I became more interested in technology I couldn’t let go of playing video games. Along the way to picking my career I became more interested in computers and have found it interesting and fun to build my own rigs. I have built two pc’s so far, one that was a budget build and another one that I saved up my money for in order to get better performance than what I was using before. 
 
+Another personal interest is animals. As a kid I spent a lot of time around chickens, cows, and horses so I have always had a love for them. While I currently dont have any animals anymore, I plan on one day raising chickens in my backyard.
+<img align="left" alt="chickens" width="280px" style="padding-right:10px;" src="[https://www.cinelinx.com/wp-content/uploads/2022/02/elden-ring-key-art-1271785.jpg](https://www.freedomrangerhatchery.com/wp-content/uploads/2019/03/flock.jpg)" />
 
 ---
 
 ### 🧶 Social Media
 
 <a href="https://www.linkedin.com/in/darian-payan/">LinkedIn</a>
-Feel free to connect with me on LinkedIn and reach out.
+<p>Feel free to connect with me on LinkedIn and reach out. I have a more detailed layout of my educational experience, projects, and overall experience here.</p>
 
 <a href="https://twitter.com/darian_payan">Twitter</a>
 
-I like to stay engaged on relevant topics related to the field here and learn from the community about projects going on!
+<p>I like to stay engaged on relevant topics related to the field here and learn from the community about projects going on!</p>
 
