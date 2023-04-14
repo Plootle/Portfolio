@@ -63,8 +63,7 @@ As I have continued to pursue my professional and academic interests, I have man
 
 <img align="left" alt="chickens" width="280px" style="padding-right:10px;" src="https://www.freedomrangerhatchery.com/wp-content/uploads/2019/03/flock.jpg"/>
 
-<br>
-<br>
+<br clear="left"/>
 ---
 
 ### 🧶 Social Media
