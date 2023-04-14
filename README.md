@@ -40,22 +40,17 @@ Implemented an automated email service API to facilitate communication between e
 For event hosts, also developed a template builder using Ruby on Rails to efficiently share events on multiple websites. The step by step template builder allows users to create a great template that is compatible with all the local event listings.
 
 
-### SARA Project 
-
-
 ### <a href="https://github.com/Plootle/BeeGame">Bee Managment </a>
 This project is a resource management game themed around Bees. The obejective of the game is help the  bee colony grow and survive from a set amount of days by increasing production of resources, maintaining enough bees in the colony to operate, and having troops to protect the hive from enemies. Based all in Java, this project was made in order to apply a lot of the principles I learned about Object Oriented Programming. 
-
-### <a href="https://github.com/CSCI-3308-CU-Boulder/3308SP21_section013_5">Book Review </a>
-This is an application that has a library of books that you can look up and it gives the user information on the book like the summary, the author, and the genre. Users can then upload a review if they have read the book and give it a rating that will be seen by other users. Tools that we used are docker, CSS, javascript, and HTML
 
 ---
 
 ### 💡 Interest
 
-I used to volunteer a lot at my middle school and elementary school. I was a teacher's assistant and I found it pleasant teaching others. I mainly worked with students who were in the process of learning English and would grade their work or help translate writings. I still keep in contact with some of the teachers and it has been fulfilling even going back and seeing familiar faces.
+Since I was a kid I have always loved cars and trucks. The amount of work and passion that people put into their cars is always inspiring me to pursue my own project car. Right now I am researching and looking into getting a kei truck, specifically a Suzuki Carry! These Japanese work trucks have a unique design that stands out here in America as they are very rare here. Looking into the kei truck community, even the simplest modification can add a lot of personality to the truck! The plan is to have one by end of Fall 2023 and start with a simple lift kit and bigger tires for off-roading! 
 
-<img align="left" alt="mountains" width="360px" style="padding-right:10px;" src="https://cdn.britannica.com/90/116090-050-E3CDFBD5/Rocky-Mountain-National-Park-Colorado.jpg" />
+<img align="left" alt="sCarry" width="360px" style="padding-right:10px;" src="https://www.recoilweb.com/wp-content/uploads/2010/09/1990-suzuki-carry-front-three-quarter-958x639.jpg" />
+<img align="left" alt="sCarry2" width="360px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Honda_Acty_Truck_HA9_0326.JPG/2880px-Honda_Acty_Truck_HA9_0326.JPG" />
 <br clear="left"/>
 In order to get out of the house and be able to enjoy nature I dearly enjoy the outdoors that Colorado provides. Since my move to this state I have done many activities with my family. All the way from mountain biking, hiking, swimming, camping, fishing, and boat rowing.
 
@@ -68,10 +63,10 @@ As I became more interested in technology I couldn’t let go of playing video g
 
 ### 🧶 Social Media
 
-<a href="https://www.linkedin.com/in/albert-tamayo-93207b208/">LinkedIn</a>
-This allows users to see my accompaniments, things I'm part of in my career, and over give an update about where I'm at, and were I have been in my career.
+<a href="https://www.linkedin.com/in/darian-payan/">LinkedIn</a>
+Feel free to connect with me on LinkedIn and reach out.
 
-<a href="https://twitter.com/Alberttmy16">Twitter</a>
+<a href="https://twitter.com/darian_payan">Twitter</a>
 
-This is where ill post and participate on interesting topics this is less about work and more about who I am and what I like.
+I like to stay engaged on relevant topics related to the field here and learn from the community about projects going on!
 
