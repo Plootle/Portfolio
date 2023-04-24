@@ -37,7 +37,7 @@ Hey, my name is Darian Payan and I am currently. a student at the University of 
 
 ### Event Vesta
 Implemented an automated email service API to facilitate communication between event hosts and attendees. This helps simplify event sharing for hosts and provides an all-in-one location for people to find local events. 
-For event hosts, also developed a template builder using Ruby on Rails to efficiently share events on multiple websites. The step by step template builder allows users to create a great template that is compatible with all the local event listings.
+For event hosts, we also developed a template builder using Ruby on Rails to efficiently share events on multiple websites. The step by step template builder allows users to create a great template that is compatible with all the local event listings.
 
 
 ### <a href="https://github.com/Plootle/BeeGame">Bee Managment </a>
