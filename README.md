@@ -32,6 +32,11 @@ Hey, my name is Darian Payan and I am currently. a student at the University of 
 ### 📘 <a href="https://drive.google.com/file/d/1bIPYFdVzr2EmJ-bPmBkrmzo1ECh-VO-R/view?usp=sharing">Resume</a>
 
 ---
+### 📦 Work Experience
+
+### SenseWare - DPS Project
+<b><em>Data Intern & Field Technician</em>
+
 
 ### 🚀 Projects
 
