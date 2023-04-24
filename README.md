@@ -38,12 +38,15 @@ Hey, my name is Darian Payan and I am currently. a student at the University of 
 <b><em>Data Intern & Field Technician</em> <br>
 In the course of my duties, I performed on-site installations of air quality monitors, diligently ensuring reliable connections between the nodes and server. I also provided oversight for the installation process of these monitors in Denver public schools, ensuring meticulous setup and optimal performance. Furthermore, I conducted thorough statistical analysis on the datasets derived from the air quality monitors, facilitating a comprehensive assessment of the air quality conditions within the schools.
 
-
-### 🚀 Projects
-
 ### Event Vesta
 Implemented an automated email service API to facilitate communication between event hosts and attendees. This helps simplify event sharing for hosts and provides an all-in-one location for people to find local events. 
 For event hosts, we also developed a template builder using Ruby on Rails to efficiently share events on multiple websites. The step by step template builder allows users to create a great template that is compatible with all the local event listings.
+
+---
+
+### 🚀 Projects
+
+
 
 
 ### <a href="https://github.com/Plootle/BeeGame">Bee Managment </a>
