@@ -46,12 +46,11 @@ For event hosts, we also developed a template builder using Ruby on Rails to eff
 
 ### 🚀 Projects
 
-
-
-
 ### <a href="https://github.com/Plootle/BeeGame">Bee Managment </a>
 This project is a resource management game themed around Bees. The obejective of the game is help the  bee colony grow and survive from a set amount of days by increasing production of resources, maintaining enough bees in the colony to operate, and having troops to protect the hive from enemies. Based all in Java, this project was made in order to apply a lot of the principles I learned about Object Oriented Programming. 
 
+### Autonomous Grocery Robot
+As part of my role, I was tasked with developing the logic for an autonomous robot designed to navigate a grocery store using Lidar and color detection. I successfully implemented mapping techniques that enabled the robot to accurately ascertain its location within the entire store. Additionally, I devised logic states that allowed the robot to autonomously position itself correctly and retrieve desired objects from the shelves, streamlining the retrieval process. Through my efforts, the autonomous robot was able to effectively navigate the grocery store, locate objects, and obtain them from the shelves with precision and efficiency.
 ---
 
 ### 💡 Interest
