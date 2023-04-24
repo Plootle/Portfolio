@@ -51,6 +51,7 @@ This project is a resource management game themed around Bees. The obejective of
 
 ### Autonomous Grocery Robot
 As part of my role, I was tasked with developing the logic for an autonomous robot designed to navigate a grocery store using Lidar and color detection. I successfully implemented mapping techniques that enabled the robot to accurately ascertain its location within the entire store. Additionally, I devised logic states that allowed the robot to autonomously position itself correctly and retrieve desired objects from the shelves, streamlining the retrieval process. Through my efforts, the autonomous robot was able to effectively navigate the grocery store, locate objects, and obtain them from the shelves with precision and efficiency.
+
 ---
 
 ### 💡 Interest
