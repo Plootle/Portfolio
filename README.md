@@ -35,7 +35,7 @@ Hey, my name is Darian Payan and I am currently. a student at the University of 
 ### 📦 Work Experience
 
 ### SenseWare - DPS Project
-<b><em>Data Intern & Field Technician</em>
+<b><em>Data Intern & Field Technician</em> <br>
 In the course of my duties, I performed on-site installations of air quality monitors, diligently ensuring reliable connections between the nodes and server. I also provided oversight for the installation process of these monitors in Denver public schools, ensuring meticulous setup and optimal performance. Furthermore, I conducted thorough statistical analysis on the datasets derived from the air quality monitors, facilitating a comprehensive assessment of the air quality conditions within the schools.
 
 
